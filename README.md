@@ -1,4 +1,5 @@
 # MM_Camera
+<<<<<<< HEAD
 
 [![CI Status](http://img.shields.io/travis/Mqhong/MM_Camera.svg?style=flat)](https://travis-ci.org/Mqhong/MM_Camera)
 [![Version](https://img.shields.io/cocoapods/v/MM_Camera.svg?style=flat)](http://cocoapods.org/pods/MM_Camera)
@@ -27,3 +28,9 @@ Mqhong, 617257112@qq.com
 ## License
 
 MM_Camera is available under the MIT license. See the LICENSE file for more info.
+=======
+Just do it
+
+写了一个自定义的相机，练练手，后面功能会慢慢增加，最终的效果是趋近于系统相机。
+
+>>>>>>> 3623b403b2e59923f202b0085ec943f8eaaead7d

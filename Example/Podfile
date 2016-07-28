@@ -4,7 +4,7 @@ target 'MM_Camera_Example' do
   pod 'MM_Camera', :path => '../'
 
   target 'MM_Camera_Tests' do
-    inherit! :search_paths
+    ## inherit! :search_paths
 
     pod 'Specta'
   pod 'Expecta'
