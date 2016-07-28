@@ -1,14 +1,13 @@
 use_frameworks!
 
 target 'MM_Camera_Example' do
-  pod 'MM_Camera', :path => '../'
-
-  target 'MM_Camera_Tests' do
-    ## inherit! :search_paths
-
-    pod 'Specta'
-  pod 'Expecta'
-  pod 'FBSnapshotTestCase'
-  pod 'Expecta+Snapshots'
-  end
+    pod 'MM_Camera', :path => '../'
+    
+    target 'MM_Camera_Tests' do
+#        inherit! :search_paths
+        pod 'Specta'
+        pod 'Expecta'
+        pod 'FBSnapshotTestCase'
+        pod 'Expecta+Snapshots'
+    end
 end
